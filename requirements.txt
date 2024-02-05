@@ -1,0 +1,7 @@
+Django
+pillow
+tensorflow
+transformers
+torch
+sentencepiece
+django-cors-headers
